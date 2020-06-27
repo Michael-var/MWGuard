@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#Ver 2.0
 echo "Hello"
 #
-exit 5
+exit 6
